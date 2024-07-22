@@ -10,10 +10,9 @@ Download the script locally
 
 Create .env file with the following variables:
 
+```
 apollo_username='your-apollo-username'
-
 apollo_password='your-apollo-password'
-
 linkedIn_username='your-linkedin-username'
-
 linkedIn_password='your-linkedin-password'
+```
