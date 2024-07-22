@@ -7,7 +7,11 @@ This script will log into Apollo and LinkedIn on your behalf to automate the com
 # Setup
 
 Create .env file with the following variables
+
 apollo_username='your-apollo-username'
+
 apollo_password='your-apollo-password'
+
 linkedIn_username='your-linkedin-username'
+
 linkedIn_password='your-linkedin-password'
