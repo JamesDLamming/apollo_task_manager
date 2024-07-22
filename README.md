@@ -1,5 +1,5 @@
 # apollo_task_manager
-Automate the completion of outstanding view LinkedIn page tasks in Apollo
+Automate the completion of view LinkedIn page tasks in Apollo
 
 This script will log into Apollo and LinkedIn on your behalf to automate the completion of 'View LinkedIn Profile' tasks in Apollo
 
